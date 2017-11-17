@@ -1,2 +1,2 @@
 # Univers2V2
-Git repository van Bonno en Matthijs
+Git repository van Matthijs, Chris, Bonno
